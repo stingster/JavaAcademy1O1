@@ -7,5 +7,9 @@ public class FirstGitHubProject {
 		System.out.println("Linia adaugata de Stingster!");
 		Cristina.showMessage();
 
+		System.out.println(3+4 + " my line");
+
+		System.out.println("Alex Tudor a adaugat aceasta linie");
+		
 	}
 }
